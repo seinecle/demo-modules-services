@@ -1,0 +1,5 @@
+net\clementlevallois\mockobservedservice\TestPane.class
+net\clementlevallois\mockobservedservice\BetaServiceObserver.class
+net\clementlevallois\mockobservedservice\BetaServiceObserverFactory.class
+module-info.class
+net\clementlevallois\mockobservedservice\ControllerSomeService.class

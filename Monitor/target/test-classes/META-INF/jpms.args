@@ -1,0 +1,4 @@
+--patch-module
+net.clementlevallois.certificate=_
+--add-reads
+net.clementlevallois.certificate=ALL-UNNAMED

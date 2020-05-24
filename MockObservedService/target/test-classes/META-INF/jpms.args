@@ -1,0 +1,4 @@
+--patch-module
+net.clementlevallois.mockobservedcervice=_
+--add-reads
+net.clementlevallois.mockobservedcervice=ALL-UNNAMED

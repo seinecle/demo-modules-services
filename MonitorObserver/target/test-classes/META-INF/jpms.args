@@ -1,0 +1,4 @@
+--patch-module
+net.clementlevallois.monitorobserver=_
+--add-reads
+net.clementlevallois.monitorobserver=ALL-UNNAMED

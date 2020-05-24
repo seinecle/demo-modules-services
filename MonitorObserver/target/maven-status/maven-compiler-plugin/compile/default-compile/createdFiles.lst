@@ -1,0 +1,4 @@
+net\clementlevallois\monitorobserver\DiagnosticDataPoint.class
+module-info.class
+net\clementlevallois\monitorobserver\ServiceObserverFactory.class
+net\clementlevallois\monitorobserver\ServiceObserver.class
